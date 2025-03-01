@@ -13,7 +13,7 @@ Welcome to the **Astrology Chatbot**, a mobile application built using **Flutter
 
 Include screenshots of the application flow here:
 
-| Home Screen | Chatbot | Horoscope |
+| Welcome Screen | Intro Screen | Birth Details | Chatbot |
 |------------|--------|-----------|
 | ![Welcome](welcome.png) | ![Intro](intro.png) | ![Birth Details](birth_details.png) | ![Chatbot](chatbot.png) |
 
