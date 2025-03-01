@@ -15,7 +15,7 @@ Include screenshots of the application flow here:
 
 | Home Screen | Chatbot | Horoscope |
 |------------|--------|-----------|
-| ![Welcome](screenshots/welcome.png) | ![Intro](screenshots/intro.png) | ![Birth Details](screenshots/birth_details.png) | ![Chatbot](screenshots/chatbot.png) |
+| ![Welcome](welcome.png) | ![Intro](intro.png) | ![Birth Details](birth_details.png) | ![Chatbot](chatbot.png) |
 
 
 ## 💼 Contact & Purchase
